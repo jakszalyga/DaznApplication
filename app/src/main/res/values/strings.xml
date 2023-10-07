@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DaznApplication</string>
+    <string name="title_event_list">Events</string>
+    <string name="title_schedule">Schedule</string>
+    <string name="title_activity_player">PlayerActivity</string>
+
+
+</resources>
